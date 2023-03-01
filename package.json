@@ -1,0 +1,19 @@
+{
+  "name": "0802",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1",
+    "allure-playwright": "^2.0.0"
+  },
+  "dependencies": {
+    "allure": "0.0.0",
+    "allure-commandline": "^2.21.0",
+    "dotenv": "^16.0.3"
+  }
+}
